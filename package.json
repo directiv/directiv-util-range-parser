@@ -1,0 +1,19 @@
+{
+  "name": "directiv-util-range-parser",
+  "version": "0.1.0",
+  "description": "parse a range",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "range",
+    "directiv"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT"
+}
